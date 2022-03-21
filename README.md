@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SaruYummy
 - 👀 I’m interested in You
 - 🌱 I’m currently learning cs / py / c++
-- 📫 How to reach me saruyummy.contact@gmail.com
+- 📫 How to reach me : saruyummy.contact@gmail.com
