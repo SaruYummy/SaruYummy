@@ -27,9 +27,9 @@
 
 ### 🎐 Github Stats:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Stats of Yummy](https://github-readme-stats.vercel.app/api?username=SaruYummy&show_icons=true&theme=radical)
+![Stats of Yummy](https://github-readme-stats.vercel.app/api?username=SaruYummy&show_icons=true&theme=tokyonight)
 
 
 <p align='center'> 
