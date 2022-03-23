@@ -9,8 +9,6 @@
 - 📫 Reach me: [twitter.com/SaruYummy](https://twitter.com/SaruYummy) or saruyummy.contact@gmail.com
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
-<br>
-
 ### 🎎 Languages and Tools:
 `CSharp` |  `PHP`  |  `HTML`  |  `CSS`  |  `JavaScript`  |  `NodeJS`  |  `MySQL`  |  `MongoDB`
 <br>
