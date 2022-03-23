@@ -33,7 +33,6 @@
 
 Visitor count: 
 <p > 
- <br>
   <img src="https://profile-counter.glitch.me/saruyummy/count.svg" />
 </p>
 </a>
