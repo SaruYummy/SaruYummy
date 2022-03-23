@@ -1,5 +1,6 @@
 ### Hi there, I’m @SaruYummy 👋
 <br>
+
 ### 🎏 Bio:
 
 - 🏢 I'm currently a simple student in France
@@ -8,6 +9,7 @@
 - 📫 Reach me: [twitter.com/SaruYummy](https://twitter.com/SaruYummy) or saruyummy.contact@gmail.com
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
+
 ### 🎎 Languages and Tools:
 `CSharp` |  `PHP`  |  `HTML`  |  `CSS`  |  `JavaScript`  |  `NodeJS`  |  `MySQL`  |  `MongoDB`
 <br>
