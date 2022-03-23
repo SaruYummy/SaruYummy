@@ -1,7 +1,7 @@
 ### Hi there, I’m @SaruYummy 👋
 <br>
 
-### 🎏 Bio
+### 🎏 Bio:
 
 - 🏢 I'm currently a simple student in France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### 🎐 Github Stats
+### 🎐 Github Stats:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
