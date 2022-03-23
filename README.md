@@ -5,7 +5,7 @@
 
 - 🏢 I'm currently a simple student in France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
-- 🌱 I’m currently learning cs / py / c++
+- 🌱 I’m currently learning cs / py / 'c++'
 - 📫 Reach me: [twitter.com/SaruYummy](https://twitter.com/SaruYummy) or saruyummy.contact@gmail.com
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
