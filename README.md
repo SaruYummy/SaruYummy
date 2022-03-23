@@ -1,6 +1,7 @@
 ### Hi there, I’m @SaruYummy 👋
 <br>
-### 🎈 BIO
+
+### 🎈 Bio
 
 - 🏢 I'm currently a simple student in France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
