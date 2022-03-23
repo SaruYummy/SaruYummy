@@ -10,7 +10,6 @@
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
 <br>
-<br>
 
 ### 🎎 Languages and Tools:
 `CSharp` |  `PHP`  |  `HTML`  |  `CSS`  |  `JavaScript`  |  `NodeJS`  |  `MySQL`  |  `MongoDB`
@@ -26,12 +25,11 @@
 <a href="https://docs.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/mongodb.svg"></a>
 <br>
 <br>
-<br>
 
 ### 🎐 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
