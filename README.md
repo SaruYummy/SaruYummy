@@ -31,8 +31,9 @@
 
 ![Stats of Yummy](https://github-readme-stats.vercel.app/api?username=SaruYummy&show_icons=true&theme=radical)
 
+Visitor count: 
 <p > 
-  Visitor count<br>
+ <br>
   <img src="https://profile-counter.glitch.me/saruyummy/count.svg" />
 </p>
 
