@@ -27,9 +27,9 @@
 
 ### 🎐 Github Stats:
   
-<img align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaruYummy&theme=tokyonight&show_icons=true&hide_border=true" />
+<img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaruYummy&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Stats of Yummy](https://github-readme-stats.vercel.app/api?username=SaruYummy&show_icons=true&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&theme=tokyonight)
 
 
 <p align='center'> 
