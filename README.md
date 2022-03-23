@@ -10,14 +10,7 @@
 <br>
 
 ### 🔨 Languages and Tools:
-<p>Csharp</p>
-<p>PHP</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
-<p>NodeJS</p>
-<p>MySQL</p>
-<p>MongoDB</p>
+<p>Csharp  PHP  HTML  CSS  JavaScript  NodeJS  MySQL  MongoDB</p>
 <br>
 <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> <img align="left" alt="csharp" height ="42px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/csharp.svg"></a>
 <a href="https://www.php.net/docs.php" target="_blank"> <img align="left" alt="php" height ="32px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/php.svg"> </a>
