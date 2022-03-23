@@ -1,7 +1,7 @@
 ### Hi there, I’m @SaruYummy 👋
 <br>
 
-### 🎈 Bio
+### 🎏 Bio
 
 - 🏢 I'm currently a simple student in France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
@@ -10,7 +10,7 @@
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
 
-### 🔨 Languages and Tools:
+### 🎎 Languages and Tools:
 `CSharp` |  `PHP`  |  `HTML`  |  `CSS`  |  `JavaScript`  |  `NodeJS`  |  `MySQL`  |  `MongoDB`
 <br>
 <br>
@@ -23,6 +23,15 @@
 <a href="https://dev.mysql.com/doc/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/c84779ea5ae7fbe201bbb4e1fe1f5b3e98c16fd2/Images/mysql%20(1).svg"></a>
 <a href="https://docs.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/mongodb.svg"></a>
 <br>
+
+
+### 🎐 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 
 
