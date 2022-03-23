@@ -3,7 +3,7 @@
 
 ### 🎏 Bio:
 
-- 🏢 I'm currently a simple student in France
+- 🏢 I'm currently a simple student from France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
 - 🌱 I’m currently learning `C` / `Python` / `C++`
 - 📫 Reach me: [twitter.com/SaruYummy](https://twitter.com/SaruYummy) or saruyummy.contact@gmail.com
