@@ -28,7 +28,7 @@
 
 ### 🎐 Github Stats
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&layout=compact)](https://github.com/SaruYummy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
