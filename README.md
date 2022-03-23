@@ -5,13 +5,13 @@
 
 - 🏢 I'm currently a simple student in France
 - 🧧 Currently working on [Lymea](https://twitter.com/Lymea) & [LymeaEsport](https://twitter.com/LymeaEsport) & Kaiheila France
-- 🌱 I’m currently learning cs / py / 'c++'
+- 🌱 I’m currently learning cs / py / c++
 - 📫 Reach me: [twitter.com/SaruYummy](https://twitter.com/SaruYummy) or saruyummy.contact@gmail.com
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
 
 ### 🔨 Languages and Tools:
-**CSharp** |  **PHP**  |  **HTML**  |  **CSS**  |  **JavaScript**  |  **NodeJS**  |  **MySQL**  |  **MongoDB**
+`CSharp` |  `PHP`  |  **HTML**  |  **CSS**  |  **JavaScript**  |  **NodeJS**  |  **MySQL**  |  **MongoDB**
 <br>
 <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> <img align="left" alt="csharp" height ="42px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/csharp.svg"></a>
 <a href="https://www.php.net/docs.php" target="_blank"> <img align="left" alt="php" height ="32px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/php.svg"> </a>
