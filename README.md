@@ -30,7 +30,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats of Yummy](https://github-readme-stats.vercel.app/api?username=SaruYummy&show_icons=true&theme=radical)
+
 
 </a>
 
