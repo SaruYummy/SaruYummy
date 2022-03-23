@@ -1,6 +1,5 @@
 ### Hi there, I’m @SaruYummy 👋
 <br>
-
 ### 🎏 Bio:
 
 - 🏢 I'm currently a simple student in France
