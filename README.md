@@ -29,7 +29,7 @@
   
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaruYummy&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaruYummy)
 
 
 <p align='center'> 
