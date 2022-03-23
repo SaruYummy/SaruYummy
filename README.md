@@ -11,6 +11,13 @@
 
 ### 🔨 Languages and Tools:
 <p>Csharp</p>
+<p>PHP</p>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>NodeJS</p>
+<p>MySQL</p>
+<p>MongoDB</p>
 <br>
 <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> <img align="left" alt="csharp" height ="42px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/csharp.svg"></a>
 <a href="https://www.php.net/docs.php" target="_blank"> <img align="left" alt="php" height ="32px"  src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/php.svg"> </a>
@@ -20,7 +27,6 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/node-js.svg"></a>
 <a href="https://dev.mysql.com/doc/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/c84779ea5ae7fbe201bbb4e1fe1f5b3e98c16fd2/Images/mysql%20(1).svg"></a>
 <a href="https://docs.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/SaruYummy/SaruYummy/0d2abee91cd77aa707ea4d871d1181c5cdc793c8/Images/mongodb.svg"></a>
-
 <br>
 
 
