@@ -10,7 +10,7 @@
 - ⚡️ Discord : https://discord.gg/CfRnbH3Pcq
 <br>
 
-### 🎎 Languages and Tools:
+### 🎎 Languages & Learning and Tools:
 `CSharp` |  `PHP`  |  `HTML`  |  `CSS`  |  `JavaScript`  |  `NodeJS`  |  `MySQL`  |  `MongoDB`
 <br>
 <br>
